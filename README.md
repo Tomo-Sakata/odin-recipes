@@ -14,7 +14,7 @@ This project is a recipe website built as part of the Foundations course in The 
 - Basic HTML structure and semantics
 - Creating internal links between pages
 - Displaying images using `<img>`
-- Version contrli and publishing using Git and GitHub
+- Version control and publishing using Git and GitHub
 
 ## Objectives
 
